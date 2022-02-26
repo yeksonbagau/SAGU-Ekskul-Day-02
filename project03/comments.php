@@ -7,5 +7,10 @@
     echo "sigle line comment using'#'";
 
 
-    /*This is multipe line comment in php*/
+    /*
+    This is multipe line 
+    comment in php
+    */
+
+    echo "multipe line comment in php using '/*...*/'<br><br>"
 ?>
